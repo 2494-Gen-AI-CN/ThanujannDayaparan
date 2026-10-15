@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+pokemon_cache.json
 
 # C extensions
 *.so
