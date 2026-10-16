@@ -8,7 +8,6 @@ import random
 from PIL import Image, ImageTk
 from pathlib import Path
 from api import get_pokemon_data
-from main import get_random_pokemon
 
 SPRITE_SIZE = (256, 256)  
 HIGH_SCORE_FILE = Path(__file__).with_name("high_score.txt")
