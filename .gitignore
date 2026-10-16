@@ -3,7 +3,7 @@ __pycache__/
 *.py[codz]
 *$py.class
 pokemon_cache.json
-
+high_score.txt
 # C extensions
 *.so
 
